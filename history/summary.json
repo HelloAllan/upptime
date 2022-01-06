@@ -22,19 +22,19 @@
     "url": "https://app.emptychair.io",
     "icon": "https://favicons.githubusercontent.com/app.emptychair.io",
     "slug": "empty-chair-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 657,
-    "timeWeek": 477,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 461,
+    "timeDay": 556,
+    "timeWeek": 463,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2022-01-06": 0
+      "2022-01-06": 18
     }
   },
   {
