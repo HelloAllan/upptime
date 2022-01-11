@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 89,
-    "timeWeek": 179,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 177,
+    "timeDay": 173,
+    "timeWeek": 171,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/app.emptychair.io",
     "slug": "empty-chair-app",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 462,
-    "timeDay": 414,
-    "timeWeek": 502,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 455,
+    "timeDay": 361,
+    "timeWeek": 501,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2022-01-06": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 52,
-    "timeWeek": 127,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 130,
+    "timeDay": 38,
+    "timeWeek": 124,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   }
 ]
