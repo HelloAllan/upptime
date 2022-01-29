@@ -42,9 +42,9 @@
     "url": "https://emptychair.io",
     "icon": "https://favicons.githubusercontent.com/emptychair.io",
     "slug": "empty-chair-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 108,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-29": 0
+    }
   }
 ]
