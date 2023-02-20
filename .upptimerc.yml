@@ -13,4 +13,3 @@ sites:
 status-website:
   cname: status.helloallan.com
   name: Allan Status
-
