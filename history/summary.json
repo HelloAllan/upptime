@@ -24,8 +24,8 @@
     "url": "https://app.emptychair.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.emptychair.io.ico",
     "slug": "empty-chair-app",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2023-03-08": 0,
       "2022-04-26": 21
     }
   },
