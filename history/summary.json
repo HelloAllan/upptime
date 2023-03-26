@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.helloallan.com.ico",
     "slug": "hello-allan",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 191,
-    "timeDay": 106,
-    "timeWeek": 165,
+    "uptimeYear": "99.93%",
+    "time": 189,
+    "timeDay": 117,
+    "timeWeek": 168,
     "timeMonth": 202,
-    "timeYear": 191,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2022-09-15": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
-    "time": 405,
-    "timeDay": 429,
-    "timeWeek": 392,
-    "timeMonth": 396,
-    "timeYear": 405,
+    "time": 409,
+    "timeDay": 550,
+    "timeWeek": 434,
+    "timeMonth": 405,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2023-03-08": 22,
       "2022-04-26": 21
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 166,
-    "timeWeek": 108,
-    "timeMonth": 112,
-    "timeYear": 124,
+    "time": 125,
+    "timeDay": 165,
+    "timeWeek": 123,
+    "timeMonth": 115,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
