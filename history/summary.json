@@ -4,9 +4,9 @@
     "url": "https://www.helloallan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.helloallan.com.ico",
     "slug": "hello-allan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 160,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2023-04-19": 0,
       "2022-09-15": 36
     }
   },
