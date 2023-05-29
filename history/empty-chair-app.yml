@@ -1,7 +1,7 @@
 url: https://app.emptychair.io
-status: up
-code: 200
-responseTime: 535
-lastUpdated: 2023-05-29T01:42:41.223Z
+status: down
+code: 503
+responseTime: 437
+lastUpdated: 2023-05-29T11:20:00.420Z
 startTime: Mon Feb 20 2023 11:54:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
