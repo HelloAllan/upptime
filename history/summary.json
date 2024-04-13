@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 91,
-    "timeWeek": 149,
-    "timeMonth": 151,
-    "timeYear": 164,
+    "timeDay": 224,
+    "timeWeek": 156,
+    "timeMonth": 152,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2023-04-19": 43
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.emptychair.io.ico",
     "slug": "empty-chair-app",
     "status": "down",
-    "uptime": "39.59%",
+    "uptime": "39.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.08%",
+    "uptimeYear": "30.80%",
     "time": 468,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 486,
+    "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-04-12": 4,
+      "2024-04-13": 4,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -290,8 +291,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 737,
       "2023-06-01": 15,
-      "2023-05-29": 38,
-      "2023-04-14": 29
+      "2023-05-29": 38
     }
   },
   {
@@ -305,10 +305,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 124,
-    "timeWeek": 149,
-    "timeMonth": 143,
+    "time": 132,
+    "timeDay": 77,
+    "timeWeek": 134,
+    "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {}
   }
